@@ -1,0 +1,21 @@
+---
+layout: default
+title: William Ruzvidzo's Blog by Robin Stickel
+description: A collection of William Ruzvidzo's writing.
+---
+             <h1 class="blogtitle">Articles</h1>
+      </div>
+      </div>
+      <div class="container">
+         <div id="selected_work">
+              <div id="works">
+              	  {% for post in site.posts %}
+                  <div class="work_line">
+                      <a href="{{ post.url }}">
+                      <div class="project_title">{{ post.title }}</div>
+                      <div class="project_info date">{{ post.date | date_to_string }}</div>
+										</a>
+                  </div>
+                {% endfor %}
+              </div>
+         </div>
