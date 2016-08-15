@@ -2,7 +2,6 @@
 
 markdown: kramdown
 theme: minima
-baseurl: '/website'
 permalink: /blog/:title/
 
 port: 8000
