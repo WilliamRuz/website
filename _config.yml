@@ -1,8 +1,7 @@
 # Site settings
 
 title: William Ruzvidzo's website
-description: >
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: '/WilliamRuz.github.io'
 
 # Build settings
 
