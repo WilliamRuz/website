@@ -50,4 +50,4 @@ Here are other resources that I’m using to supplement my learning.
  - [A Smarter Way to Learn](https://www.amazon.com/Mark-Myers/e/B00HNW14T4/ref=dp_byline_cont_ebooks_1) by Mark Myers
  - [Web Design with HTML, CSS, JavaScript and jQuery](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=asap_bc?ie=UTF8) by Jon Duckett
 
-Ultimately, I do one day want to go scuba diving or shark cage swimming. But for now, I’m just fine with learning to code.
+Ultimately, I do one day want to go scuba diving or shark cage swimming. But for now, I’m just fine with learning to code. :)
