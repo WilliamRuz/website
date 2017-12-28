@@ -25,4 +25,4 @@ Ultimately, the whole coding process took about a week. There were a lot of late
 
 In addition to hours spent traversing through Google and YouTube and combing Stack Overflow for solutions, whenever I got stuck in the trenches, the community in the Free Code Camp [Forum](http://forum.freecodecamp.com/) were very helpful. I also used this DevTips [tutorial](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI) and these [Lynda](https://www.lynda.com/Jekyll-tutorials/Jekyll-Web-Designers/383124-2.html) and [Treehouse](https://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages) courses as additional guides.
 
-Feel free to give me a shout on [Twitter](https://twitter.com/will_ruz) or shoot me an [email](mailto:william1.ruz@gmail.com) if you have any feedback or comments.:)
+Feel free to give me a shout on [Twitter](https://twitter.com/will_ruz) or shoot me an [email](mailto:william1.ruz@gmail.com) if you have any feedback or comments.
