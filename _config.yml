@@ -3,6 +3,9 @@
 title: William Ruzvidzo's website
 baseurl: '/WilliamRuz.github.io'
 
+# Google Analytics
+google_analytics: UA-112502014-1
+
 # Build settings
 
 markdown: kramdown
