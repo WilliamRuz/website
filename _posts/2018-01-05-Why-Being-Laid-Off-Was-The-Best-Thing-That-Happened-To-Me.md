@@ -3,7 +3,7 @@ layout: post
 title: "Why being laid off from my was the best thing that happpened to me"
 date: 2018-01-05
 ---
-![Jekyll]({{site.baseurl}}/images/jekyll2.jpg){: .img-responsive }
+!https://imgur.com/C1mulms({{site.baseurl}}/images/jekyll2.jpg){: .img-responsive }
 
 <br>
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
