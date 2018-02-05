@@ -8,6 +8,8 @@ date: 2018-01-05
 
 ![AustinKleon2](WilliamRuz.github.io/images/IMG_0024.jpg){: .center-image }
 
+WilliamRuz.github.io/images/IMG_0024.jpg
+
 <br>
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
 
