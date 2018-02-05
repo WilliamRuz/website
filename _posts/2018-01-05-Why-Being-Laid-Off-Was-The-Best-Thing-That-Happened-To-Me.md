@@ -3,7 +3,8 @@ layout: post
 title: "Why being laid off from my was the best thing that happpened to me"
 date: 2018-01-05
 ---
-!https://imgur.com/C1mulms({{site.baseurl}}/images/jekyll2.jpg){: .img-responsive }
+
+![AustinKleon2](https://cdn-images-1.medium.com/max/800/1*ZcKqi-As0hKjlkAt4m3Lgw.gif){: .center-image }
 
 ![AustinKleon2](WilliamRuz.github.io/images/IMG_0024.jpg){: .center-image }
 
