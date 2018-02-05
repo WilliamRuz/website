@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why being laid off from my was the best thing that happpened to me"
+title: "Why being laid was the best thing that happpened to me"
 date: 2018-01-05
 ---
 
