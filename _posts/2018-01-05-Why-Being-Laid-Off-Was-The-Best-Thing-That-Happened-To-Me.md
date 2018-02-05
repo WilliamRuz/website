@@ -4,8 +4,6 @@ title: "Why being laid off from my was the best thing that happpened to me"
 date: 2018-01-05
 ---
 
-![AustinKleon2](https://cdn-images-1.medium.com/max/800/1*ZcKqi-As0hKjlkAt4m3Lgw.gif){: .center-image }
-
 ![Test3](https://i.imgur.com/C1mulms.jpg){: .center-image }
 
 <br>
