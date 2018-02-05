@@ -4,7 +4,7 @@ title: "Why being laid was the best thing that happpened to me"
 date: 2018-01-05
 ---
 
-![Test3](https://i.imgur.com/C1mulms.jpg){: .center-image }
+![Test3](https://i.imgur.com/C1mulms.jpg)
 
 <br>
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
