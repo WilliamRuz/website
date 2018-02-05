@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How I designed and coded this website"
-date: 2016-08-22
+title: "Why being laid off from my was the best thing that happpened to me"
+date: 2018-01-05
 ---
 ![Jekyll]({{site.baseurl}}/images/jekyll2.jpg){: .img-responsive }
 
