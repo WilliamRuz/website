@@ -6,7 +6,7 @@ date: 2018-01-05
 
 ![AustinKleon2](https://cdn-images-1.medium.com/max/800/1*ZcKqi-As0hKjlkAt4m3Lgw.gif){: .center-image }
 
-![AustinKleon2]WilliamRuz.github.io/images/badge_43_8@2x.png){: .center-image }
+![Test](https://imgur.com/a/VJXeA)
 
 <img src="https://imgur.com/C1mulmshttps://imgur.com/a/VJXeA" alt="hey"/>
 
