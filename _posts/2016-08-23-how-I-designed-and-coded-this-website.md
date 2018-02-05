@@ -3,7 +3,7 @@ layout: post
 title: "How I designed and coded this website"
 date: 2016-08-22
 ---
-![Jekyll]({{site.baseurl}}/images/jekyll2.jpg){: .img-responsive }
+![Jekyll]({{site.baseurl}}/https://imgur.com/C1mulms){: .img-responsive }
 
 <br>
 
