@@ -25,4 +25,4 @@ So I packed my bags and moved to Montreal in the spring of 2017. I love Montreal
 
 ![Test3](https://i.imgur.com/c9PD5LL.png)
 
-And when Montreal reached -25 weather over the holidays, I knew I was ready. I booked a one-way flight to Mexico City and armed with my laptop, suitcase and rusty 10 year old survival Spanish, I took the plunge into unpredictability. g
+And when Montreal reached -25 weather over the holidays, I knew I was ready. I booked a one-way flight to Mexico City and armed with my laptop, suitcase and rusty 10 year old survival Spanish, I took the plunge into unpredictability. 
