@@ -5,6 +5,8 @@ date: 2018-01-05
 ---
 !https://imgur.com/C1mulms({{site.baseurl}}/images/jekyll2.jpg){: .img-responsive }
 
+![AustinKleon2](WilliamRuz.github.io/images/IMG_0024.jpg){: .center-image }
+
 <br>
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
 
