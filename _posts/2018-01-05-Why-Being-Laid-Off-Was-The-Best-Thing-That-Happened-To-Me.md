@@ -6,9 +6,7 @@ date: 2018-01-05
 
 ![AustinKleon2](https://cdn-images-1.medium.com/max/800/1*ZcKqi-As0hKjlkAt4m3Lgw.gif){: .center-image }
 
-![Test2](https://i.imgur.com/lDkAHJd.png)
-
-<img src="https://imgur.com/C1mulmshttps://imgur.com/a/VJXeA" alt="hey"/>
+![Test3](https://i.imgur.com/C1mulms.jpg){: .center-image }
 
 <br>
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
