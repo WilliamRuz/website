@@ -8,7 +8,7 @@ date: 2018-01-05
 
 ![AustinKleon2]WilliamRuz.github.io/images/badge_43_8@2x.png){: .center-image }
 
-<img src="https://imgur.com/C1mulmshttps://imgur.com/a/VJXeA" alt="hi"/>
+<img src="https://imgur.com/C1mulmshttps://imgur.com/a/VJXeA" alt="hey"/>
 
 <br>
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
