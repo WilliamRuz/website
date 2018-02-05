@@ -6,7 +6,7 @@ date: 2018-01-05
 
 ![AustinKleon2](https://cdn-images-1.medium.com/max/800/1*ZcKqi-As0hKjlkAt4m3Lgw.gif){: .center-image }
 
-![AustinKleon2](WilliamRuz.github.io/images/IMG_0024.jpg){: .center-image }
+![AustinKleon2]WilliamRuz.github.io/images/badge_43_8@2x.png){: .center-image }
 
 WilliamRuz.github.io/images/IMG_0024.jpg
 
