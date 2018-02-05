@@ -21,6 +21,6 @@ So that summer, I started laying the groundwork for the life I envisioned. I too
 
 I also taught myself how to code and started taking on some freelance work in social media marketing. I’d always been scared of freelancing and how unpredictable it is, but being laid off gave me the kick in the ass I needed. After having lived a predictable life in my 20s, suddenly the unpredictable seemed less scary. I could either go back to being an office drone or I could venture into the unknown and unpredictable work of freelancing.
 
-So I packed my bags and moved to Montreal in the spring of 2017. I love Montreal and have always wanted to live there. It is bilingual, has a phenomenal culture, and is very affordable. So I made it my base while I built up my freelancing business and while I worked on my master plan to go global in 2018.
+So I packed my bags and moved to Montreal in the spring of 2017. I love Montreal and have always wanted to live there. It is bilingual, has a phenomenal culture, and is very affordable. So I made it my base while I built up my freelancing business and while I worked on my master plan to go global in 2018. 
 
 And when Montreal reached -25 weather over the holidays, I knew I was ready. I booked a one-way flight to Mexico City and armed with my laptop, suitcase and rusty 10 year old survival Spanish, I took the plunge into unpredictability.
