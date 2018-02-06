@@ -4,7 +4,7 @@ title: "Why being laid off was the best thing that happpened to me"
 date: 2018-01-05
 ---
 ![Test4](https://i.imgur.com/k28UQdm.jpg){: .img-responsive }
-*image_caption*
+*Sitting on top of the Pyramid of the Sun at Teotihuacan, Mexico.*
 
 <br>
 
