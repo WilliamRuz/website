@@ -6,7 +6,7 @@ date: 2018-01-05
 ![Test4](https://i.imgur.com/C1mulms.jpg)
 *image_caption*
 
-
+<br>
 
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
 
