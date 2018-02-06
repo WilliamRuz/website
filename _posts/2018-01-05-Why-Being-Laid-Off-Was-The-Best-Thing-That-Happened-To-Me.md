@@ -3,7 +3,7 @@ layout: post
 title: "Why being laid off was the best thing that happpened to me"
 date: 2018-01-05
 ---
-![Test4](https://i.imgur.com/af6PTGE.jpg){: .img-responsive }
+![Test4](https://i.imgur.com/k28UQdm.jpg){: .img-responsive }
 
 <br>
 
