@@ -4,9 +4,8 @@ title: "Why being laid off was the best thing that happpened to me"
 date: 2018-01-05
 ---
 ![Test4](https://i.imgur.com/C1mulms.jpg)
-*image_caption* {: .center}
+*image_caption*
 
-<br>
 
 At the beginning of this year, I decided that I wanted to have more fun and freedom in 2018.
 
@@ -24,6 +23,7 @@ I also taught myself how to [code](http://williamruz.com/blog/why-i'm-teaching-m
 So I packed my bags and moved to Montreal in the spring of 2017. I love Montreal and have always wanted to live there. It is bilingual, has a phenomenal culture, and is very affordable. So I made it my base while I built up my freelancing business and while I worked on my master plan to go global in 2018. 
 
 ![Test3](https://i.imgur.com/c9PD5LL.png){: .center-image }
+*Mexico here I come!*
 
 <br>
 
