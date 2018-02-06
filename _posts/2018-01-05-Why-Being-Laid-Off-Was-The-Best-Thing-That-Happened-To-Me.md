@@ -25,4 +25,6 @@ So I packed my bags and moved to Montreal in the spring of 2017. I love Montreal
 
 ![Test3](https://i.imgur.com/c9PD5LL.png){: .center-image }
 
+<br>
+
 And when Montreal experienced one of its [coldest](http://www.cbc.ca/news/canada/montreal/winter-weather-montreal-1.4466896) winters on record in Janaury this year, I knew I was ready. I booked a one-way ticket to Mexico City and armed with my laptop, suitcase and rusty 10 year old survival Spanish, I finally took the plunge.
