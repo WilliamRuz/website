@@ -40,11 +40,7 @@ Coding is all about making things and I love the idea of building something that
 
 <br>
 
-In April, when I decided to commit to learning how to code, I signed up for [Free Code Camp](https://www.freecodecamp.com/) (FCC), which is an open source community where you learn to code full stack JavaScript. What I love about FCC, is that it gives you assignments and projects to complete along the way. The first [project](https://www.freecodecamp.com/challenges/build-a-tribute-page) I completed, was this Grace Jones [Tribute page](https://codepen.io/willruz/full/NNopyJ/).
-
-Regardless of whether my work is good enough or not, I’ve decided to put it out there and share it with the world because that’s the only way I can learn and get better. I’ve still got a long way to go but the journey is exciting, albeit challenging.
-
-Here are other resources that I’m using to supplement my learning.
+In April, when I decided to commit to learning how to code, I signed up for [Free Code Camp](https://www.freecodecamp.com/) (FCC), which is an open source community where you learn to code full stack JavaScript. What I love about FCC, is that it gives you assignments and projects to complete along the way. Here are other resources that I’m using to supplement my learning.
 
  - [Dev Tips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) YouTube channel
  - [A Smarter Way to Learn](https://www.amazon.com/Mark-Myers/e/B00HNW14T4/ref=dp_byline_cont_ebooks_1) by Mark Myers
