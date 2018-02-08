@@ -3,7 +3,7 @@ layout: post
 title: "How I designed and coded this website"
 date: 2016-08-22
 ---
-![Jekyll]({{site.baseurl}}/https://imgur.com/C1mulms){: .img-responsive }
+![Jekyll](https://thejibe.com/sites/default/files/article/images/jekyll-logo.png){: .img-responsive }
 
 <br>
 
