@@ -3,7 +3,7 @@ layout: post
 title: "Why being laid off was the best thing that happened to me"
 date: 2018-02-26
 ---
-![Test4](https://i.imgur.com/rbwwXdI.jpg)
+![Test4](https://i.imgur.com/tuOtbw8.jpg)
 *Sitting on top of the Pyramid of the Sun at Teotihuacan, Mexico.*
 
 <br>
