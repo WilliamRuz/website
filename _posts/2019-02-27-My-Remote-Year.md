@@ -7,7 +7,7 @@ When I boarded that flight to Mexico more than a year ago, I didn’t know what 
 
 So what initially begun as a quick one month “winter escape” eventually led to a complete lifestyle change. I went back to Montreal and sold or gave away most of my possessions. And then I headed back to Mexico with ___ and for another _ 2 months.  While there, I traveled and worked remotely in Puerto Vallarta, Mexico City, Oaxaca City, Puerto Escondido, Zipolite and Oaxaca,  San Cristoal de Las casa, Paleque, Merida, Playa Del Carmen, Cancun, Laguna Del Bacalar, Tulum and---
 
-![Test4](https://i.imgur.com/impzzva.jpg){: .img-responsive }
+![Test4](https://i.imgur.com/ltBWJ2p.jpg){: .img-responsive }
 *Sitting on top of the Pyramid of the Sun at Teotihuacan, Mexico.*
 
 <br>
