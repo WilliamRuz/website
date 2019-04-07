@@ -20,9 +20,3 @@ It hasn’t always been smooth sailing and there have been some bumps along the 
 I also taught myself how to [code](http://williamruz.com/blog/why-i'm-teaching-myself-to-code/) and started taking on some freelance work in social media marketing.
 
 <br>
-
-![Test3](https://i.imgur.com/c9PD5LL.png){: .center-image }
-
-<br>
-
-And when Montreal experienced one of its [coldest](http://www.cbc.ca/news/canada/montreal/winter-weather-montreal-1.4466896) winters on record in Janaury this year, I knew I was ready. I booked a one-way ticket to Mexico City and armed with my laptop, suitcase and rusty 10 year old survival Spanish, I finally took the plunge. 
