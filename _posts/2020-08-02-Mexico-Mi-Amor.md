@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why being laid off was the best thing that happened to me"
+title: "Mexico Mi Amor"
 date: 2020-08-02
 ---
 ![Test4](https://imgur.com/c3WdtG2){: .img-responsive }
