@@ -3,7 +3,7 @@ layout: post
 title: "Mexico Mi Amor"
 date: 2020-08-02
 ---
-![Test4](https://imgur.com/c3WdtG2){: .img-responsive }
+![Test4](https://i.imgur.com/c3WdtG2.jpg){: .img-responsive }
 *Sitting on top of the Pyramid of the Sun at Teotihuacan, Mexico.*
 
 When I boarded that flight to Mexico more than a year ago, I didn’t know what to expect. I certainly didn’t expect to fall in love with the country. But that’s what happened. I completely fell in love with the food, the people, the weather, the culture. I even loved speaking, or at last trying to speak in Spanish. But what I loved even more, was the freedom of flexibility of being able to work and travel at the same time.
