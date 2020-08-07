@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Remote Year"
-date: 2017-02-26
+date: 2019-04-11
 ---
 ![Test4](https://i.imgur.com/ltBWJ2p.jpg){: .img-responsive }
 *Sitting on top of the Pyramid of the Sun at Teotihuacan, Mexico.*
